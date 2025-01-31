@@ -1,0 +1,4 @@
+node_modules/   # Excludes dependencies installed via npm or yarn
+.expo/          # Ignores Expo-specific metadata and configuration files
+.env            # Prevents storing sensitive environment variables in Git
+.DS_Store       # Avoids tracking macOS system files
